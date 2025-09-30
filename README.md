@@ -30,7 +30,7 @@ Built with a pre-trained **DenseNet121** model, the project also provides **Grad
 
 ---
 
-## 📹 Contribution Video
+## 📹 Contribution Video (*Click the image to watch my video demonstration of this project.*)
 [![Watch Contribution Video](./chest_image.png)](https://drive.google.com/file/d/1iqpk_XtialCJ7Ek2I-Cu092rj8Kjn8Im/view?usp=drive_link)
 *Click the image to watch my video demonstration of this project.*
 ---
